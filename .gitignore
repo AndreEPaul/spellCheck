@@ -1,0 +1,8 @@
+# IDE path
+.idea/
+
+# make config for IDE
+CMakeLists.txt
+
+# more IDE make stuff
+cmake-build-debug/ 
